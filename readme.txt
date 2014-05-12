@@ -1,6 +1,6 @@
 ﻿=== CMS2CMS: SMF to bbPress Convertor  ===
 Contributors: cms2cms
-Tags: smf to bbpress, smf to bbpress mirgation, convert smf to bbpress, migrate smf to bbpress
+Tags: smf to bbpress, smf to bbpress migration, convert smf to bbpress, migrate smf to bbpress, bbPress, SMF
 Requires at least: 3.0.0
 Tested up to: 3.8
 Stable tag: 3.6.2
