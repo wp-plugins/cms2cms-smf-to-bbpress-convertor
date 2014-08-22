@@ -29,6 +29,9 @@ In case you plan to migrate your site from Simple Machines Forum to bbPress on W
 * totally free Demo available - so that you are able to see how it works prior to making the payment.
 * live chat & ticket support before during and after migration. 
 
+= Video =
+[youtube https://www.youtube.com/watch?v=p6l7I14Yu_E]
+
 **More details: http://www.cms2cms.com/supported-cms/simple-machines-forum-to-bb-press-migration**
 
 **Notice. SMF to bbPress converter installs the connection bridge on your WordPress web site, necessary for data transfer between the source SMF and bbpress databases. Following the activation, you’ll be used to the CMS2CMS website to complete the conversion.
