@@ -2,7 +2,7 @@
 Contributors: cms2cms
 Tags: smf to bbpress, smf to bbpress migration, convert smf to bbpress, migrate smf to bbpress, bbPress, SMF, bbpress migration
 Requires at least: 3.0.0
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -32,7 +32,7 @@ In case you plan to migrate your site from Simple Machines Forum to bbPress on W
 = Video =
 [youtube https://www.youtube.com/watch?v=p6l7I14Yu_E]
 
-**More details: http://www.cms2cms.com/supported-cms/simple-machines-forum-to-bb-press-migration**
+**More details: http://www.cms2cms.com/supported-cms/simple-machines-forum-to-bb-press-migration?utm_source=SMF&utm_medium=Link&utm_campaign=WordPress_plugins**
 
 **Notice. SMF to bbPress converter installs the connection bridge on your WordPress web site, necessary for data transfer between the source SMF and bbpress databases. Following the activation, you’ll be used to the CMS2CMS website to complete the conversion.
 
