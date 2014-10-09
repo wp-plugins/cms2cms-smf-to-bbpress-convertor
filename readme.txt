@@ -14,7 +14,7 @@ In case you plan to migrate your site from Simple Machines Forum to bbPress on W
 In case you plan to migrate your site from Simple Machines Forum to bbPress on WordPress, this plugin can assist to move your content automatically. You\'ll be able to quickly set up your migration even without any programming background. The transfer normally requires from several minutes to a couple hrs  - everything depends on the size of your website.
 
 * *There is Free Demo available (migration of limited number of posts, threads, etc.).*
-* *Full Migration starts from $39.*
+* *Full Migration starts from $49.*
 
 = The next content can be migrated from SMF to bbPress with CMS2CMS: =
 * posts
